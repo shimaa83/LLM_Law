@@ -13,7 +13,7 @@ GOOGLE_API_KEY = "AIzaSyA5g3q_6QTHfAmjKffMnpwZNiIvIlOaJAE"
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # مسار ملف القانون
-LAW_FILE_PATH = "D:/Omdena/chatbot/law4.txt"
+LAW_FILE_PATH = "law4.txt"
 
 # تكوين Streamlit
 st.set_page_config(
